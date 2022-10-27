@@ -31,5 +31,3 @@ For the presentation I focused on showing the proportion of the genders and user
 Found out that most of the users prefer to start baking at around 5pm. Though the earlier they go out the longer the durations of these bike rides.
 
 Only the younger riders tends to have longer durations.
-
-Ticket ID is: 1633306.
